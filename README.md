@@ -6,9 +6,11 @@
 
 ## Video
 
-<video src="assets/password%20generator%201.mp4" controls title="Title"></video>
+https://github.com/Rcurcurato/Random-Password-Generator/assets/133296185/1ecd2615-a001-4a2d-b1d3-a2fcc1e926c0
 
-<video src="assets/password%20generator%202.mp4" controls title="Title"></video>
+
+https://github.com/Rcurcurato/Random-Password-Generator/assets/133296185/30868a1c-180c-45f6-bf16-28529e00b636
+
 
 ## Website
 
