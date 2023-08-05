@@ -12,6 +12,9 @@ https://github.com/Rcurcurato/Random-Password-Generator/assets/133296185/1ecd261
 https://github.com/Rcurcurato/Random-Password-Generator/assets/133296185/30868a1c-180c-45f6-bf16-28529e00b636
 
 
+https://github.com/Rcurcurato/Random-Password-Generator/assets/133296185/aafb9917-26b7-4312-a3fe-ab75021cfcd9
+
+
 ## Website
 
 https://rcurcurato.github.io/Random-Password-Generator/
